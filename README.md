@@ -6,4 +6,4 @@ This repository contains the test project for Crédit Agricole.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/test_credit_agricole.git
+git clone https://github.com/IndraGeorge/test_credit_agricole.git
